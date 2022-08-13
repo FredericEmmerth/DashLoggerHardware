@@ -1,23 +1,27 @@
-Circuit: * C:\Uni\DashLogger\Button Debounce.asc
+Circuit: * C:\Uni\DashLogger\DashLoggerHardware\LTSpice\Button Debounce.asc
 
 Direct Newton iteration for .op point succeeded.
-Heightened Def Con from 0.0104 to 0.0104
-Heightened Def Con from 0.0514 to 0.0514
+Heightened Def Con from 0.00760001 to 0.00760002
+Heightened Def Con from 0.00840001 to 0.00840002
+Heightened Def Con from 0.0164 to 0.0164
+Heightened Def Con from 0.0544 to 0.0544
+Heightened Def Con from 0.055 to 0.055
+Heightened Def Con from 0.059 to 0.059
 
-Date: Mon Jan 17 11:11:13 2022
-Total elapsed time: 0.338 seconds.
+Date: Tue Jul 12 09:27:12 2022
+Total elapsed time: 0.105 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 46047
-traniter = 46044
-tranpoints = 17664
-accept = 14542
-rejected = 3124
+totiter = 46155
+traniter = 46152
+tranpoints = 17710
+accept = 14627
+rejected = 3089
 matrix size = 11
 fillins = 0
 solver = Normal
-Matrix Compiler1: 252 bytes object code size  0.2/0.1/[0.1]
+Matrix Compiler1: 252 bytes object code size  0.1/0.1/[0.1]
 Matrix Compiler2: 603 bytes object code size  0.1/0.2/[0.1]
 
